@@ -388,13 +388,14 @@ ol {
 
 .portfolio-our-project-list {
   flex-basis: calc(100% / 3 - 30px);
+  width: 370px;
   margin-right: 30px;
   margin-top: 30px;
-  border-bottom: 1px solid #eeeeee;
 }
 
 .portfolio-our-project-wrapper {
   padding: 20px 24px;
+  border: 1px solid #eeeeee;
 }
 
 .portfolio-our-project-title {
